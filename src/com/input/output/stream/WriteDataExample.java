@@ -8,7 +8,7 @@ public class WriteDataExample {
 
 		// FileOutputStream fos = null;
 		// Step-1- Create object of FileWriter
-		FileWriter fWriter = new FileWriter("C:\\Users\\Jeevan\\Desktop\\writedata.txt");
+		FileWriter fWriter = new FileWriter("C:\\Users\\SHILPA\\OneDrive\\Desktop");
 		// Step-2- use write() method
 		//scanner-> nextLine() method-String s
 		fWriter.write("This is online java classes...");

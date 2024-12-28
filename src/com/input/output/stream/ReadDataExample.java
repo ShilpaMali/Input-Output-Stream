@@ -15,7 +15,7 @@ public class ReadDataExample {
 		Scanner scanner = null;
 		try {
 			// Step-1- Create object of FileInputStream and pass filepath
-			fis = new FileInputStream("C:\\Users\\Jeevan\\Desktop\\readdata.txt");
+			fis = new FileInputStream("C:\\Users\\SHILPA\\OneDrive\\Desktop");
 			// Step-2- create the object of Scanner class and pass fis object
 			scanner = new Scanner(fis); // I am software engineer pune
 			// Step-3- while loop
